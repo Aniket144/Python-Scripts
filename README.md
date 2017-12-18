@@ -1,6 +1,6 @@
 # Python-Scripts
 
-# xkcd.py
+### xkcd.py
  
 * This python program can be used from the terminal of your operating system. It will download all the comics from xkcd.com and save them locally in a folder 'xkcd-comics' in your current directory. 
 
