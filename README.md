@@ -8,4 +8,4 @@
 
 ### CelebrityMatch.py
 
-* You need to make install Watson-API and Twitter-API for python and also create account on Twitter and IBM Bluemix to get authentication to use their service. After doing all this, you can enter your twitter handle & a Celebrity twitter handle and IBM Watson will find similar personality insights by going through the latest 200 tweets of both of you and putting this data through its Machine Learning Model. 
+* You need to make Watson-API and Twitter-API for python and also create account on Twitter and IBM Bluemix to get authentication to use their service. After doing all this, you can enter your twitter handle & a Celebrity twitter handle and IBM Watson will find similar personality insights by going through the latest 200 tweets of both of you and putting this data through its Machine Learning Model. 
