@@ -9,3 +9,7 @@
 ### CelebrityMatch.py
 
 * You need to make Watson-API and Twitter-API for python and also create account on Twitter and IBM Bluemix to get authentication to use their service. After doing all this, you can enter your twitter handle & a Celebrity twitter handle and IBM Watson will find similar personality insights by going through the latest 200 tweets of both of you and putting this data through its Machine Learning Model. 
+
+### YouTubeSongDownloader.py
+
+* You need to install youtube-dl library for pip python. Then you're all ready to go. Just run the script in your terminal and enter the video url when asked and the script will download audio/song of that video in M4A format.
