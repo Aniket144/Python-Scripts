@@ -12,4 +12,4 @@
 
 ### YouTubeSongDownloader.py
 
-* You need to install youtube-dl library for pip python. Then you're all ready to go. Just run the script in your terminal and enter the video url when asked and the script will download audio/song of that video in M4A format.
+* You need to install youtube-dl library by pip install youtube-dl. Then you're all ready to go. Just run the script in your terminal and enter the video url when asked and the script will download audio/song of that video in M4A format.
